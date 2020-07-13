@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Ars:EM2SXNDCboAVEI8n@devconnector.hobcn.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Ars:EM2SXNDCboAVEI8n@devconnector.hobcn.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtToken": "secretToken"
 }
